@@ -1,2 +1,3 @@
 xhofe/alist:latest
 linuxserver/qbittorrent:latest
+emby/embyserver:latest
