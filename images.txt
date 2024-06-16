@@ -12,3 +12,5 @@ linuxserver/jellyfin:latest
 postgres:latest
 zerotier/zerotier:latest
 lovechen/embyserver:latest
+dreamacro/clash:latest
+tailscale/tailscale:latest
