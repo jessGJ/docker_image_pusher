@@ -4,3 +4,11 @@ emby/embyserver:latest
 jellyfin/jellyfin:latest
 nastools/nas-tools:latest
 linyuan0213/nas-tools:latest
+linuxserver/transmission:latest
+jxxghp/moviepilot:latest
+jeessy/ddns-go:latest
+joplin/server:latest
+linuxserver/jellyfin:latest
+postgres:latest
+zerotier/zerotier:latest
+lovechen/embyserver:latest
