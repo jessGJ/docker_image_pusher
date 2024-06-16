@@ -1,3 +1,6 @@
 xhofe/alist:latest
 linuxserver/qbittorrent:latest
 emby/embyserver:latest
+jellyfin/jellyfin:latest
+nastools/nas-tools:latest
+linyuan0213/nas-tools:latest
