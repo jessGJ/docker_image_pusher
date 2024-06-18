@@ -14,3 +14,4 @@ zerotier/zerotier:latest
 lovechen/embyserver:latest
 dreamacro/clash:latest
 tailscale/tailscale:latest
+jlesage/firefox:latest
