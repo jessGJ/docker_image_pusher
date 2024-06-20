@@ -16,4 +16,4 @@ dreamacro/clash:latest
 tailscale/tailscale:latest
 jlesage/firefox:latest
 haishanh/yacd:latest
-kangkang223/openwrt:latest
+kangkang223/openwrt:z4
