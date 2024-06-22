@@ -1,1 +1,1 @@
-amilys/embyserver:v4.8.8.0
+amilys/embyserver:latest
