@@ -1,1 +1,2 @@
 amilys/embyserver:latest
+plexinc/pms-docker:latest
