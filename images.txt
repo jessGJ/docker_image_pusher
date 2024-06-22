@@ -1,2 +1,1 @@
-xhofe/alist:latest
 amilys/embyserver:latest
