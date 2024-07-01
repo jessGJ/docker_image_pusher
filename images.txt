@@ -1,4 +1,3 @@
 amilys/embyserver:latest
-plexinc/pms-docker:latest
 chishin/nginx-proxy-manager-zh:latest
 jxxghp/moviepilot:latest
