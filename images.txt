@@ -2,6 +2,6 @@ amilys/embyserver:latest
 chishin/nginx-proxy-manager-zh:latest
 jxxghp/moviepilot:latest
 herberthe0229/iptv-sources:latest
-kangkang223/baota:latest
-kangkang223/centos-mariadb:latest
-kangkang223/reader:latest
+kangkang223/baota
+kangkang223/centos-mariadb
+kangkang223/reader
