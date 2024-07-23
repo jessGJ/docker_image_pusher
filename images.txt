@@ -2,6 +2,6 @@
 #chishin/nginx-proxy-manager-zh:latest
 #jxxghp/moviepilot:latest
 #herberthe0229/iptv-sources:latest
-kangkang223/baota:latest
-kangkang223/centos-mariadb:latest
-cloudnas/cloudDrive2-unstable:latest
+#kangkang223/baota:latest
+#kangkang223/centos-mariadb:latest
+cloudnas/clouddrive2-unstable
